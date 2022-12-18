@@ -20,7 +20,7 @@
   <a href="#license">License</a> 
 </p>
 
-![screenshot](https://static.wixstatic.com/media/260383_1358653b306a48dd9aa75142534a488d~mv2.gif)
+![screenshot](https://www.ge.com/news/sites/default/files/Reports/2020-03/GIF_Mamograf%25C3%25ADa.gif)
 
 ## Key Features
 
