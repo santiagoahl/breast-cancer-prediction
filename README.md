@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Binomial Logistic regressor built to predict whether a given patient has or not a malignant mass *diagnosis*. Prediction is based on patient`s clinical data. 
+<h4 align="center">Binomial Logistic regressor built to predict whether a given patient has or not a malignant mass diagnosis. Prediction is based on patient`s clinical data. 
 </h4>
 
 <p align="center">
