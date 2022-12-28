@@ -1,0 +1,14 @@
+schema: '2.0'
+stages:
+  training:
+    cmd: python src/train.py
+    deps:
+    - path: data/data.csv
+      md5: 728371b4fe6b31828bf14dd646b3ef4d
+      size: 125204
+  prepare:
+    cmd: python src/prepare.py
+    deps:
+    - path: data/data.csv
+      md5: 728371b4fe6b31828bf14dd646b3ef4d
+      size: 125204
