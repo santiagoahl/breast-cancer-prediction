@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dogwood-mission-372804",
+  "private_key_id": "f3c39259f6b8f9e4e370ca30e377c95f29ebec5d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDeas/83h+lmdiB\nEVdEjGYl+8QVOz7mYDqvPviY4PLP3CuyGyKnK/NjLU9yLAlUElAOTBzq+ZYMgzcZ\ncx0o48XPG88wQJjNSb2ixMYBFG+RW4rzkkBhAsImICVTi5mWHzJHNf+yULS88lmf\n7MzsMZwDbU9Q5a1p6vSDqQOjmCVBHkgPWc/6aHXEee2FKL+AHWcvSFpswfnGcBaw\n1Z4B5HQW8x5n3Zd84i+ve76G/pD8Os/+xy44vDjuTZJibC2p5pjOAKzghl1fgwDS\nxCiFn31hJeGa9O7gFfiG2pHZELNJj7iB+lZvp+Cr+sFVp3hq6ZUv3WkLeTPysa8n\n223oOB91AgMBAAECggEAAnvPN0Kv3LW3VeDFOs6e+ho/lFNB3E2jbYzmpGasp3JW\nIQEN7J1SojF9FZYL8VWkA/+2gxjG47M8sAY+TJRFHvPB3f32q2tTWJp+H2UJIcIB\neBrATYByxsZtMNlRHXy2nzG7op0ldKscRnRvOzr4cbM1rKLn7+9iHmPTqPgKAHWF\nvajZZBJJUq2+qwGZ30YLGAME40KAmEE42dwzXiiRRZzonZDxfl1shx17WCJ714WL\n+xbLGDeZw3RbT2Z85GyXgPi284CSgZXHHYUkCc4Iba64J1eU5FxTfFh6nuS7KUr3\n0TYgcQ6s+d35iXwFrwbzmBJduUBaKHtJIS0dpRoQeQKBgQDwnPKbWpMtJHzOvQA/\nHXEymO86GMgHX9L3WF7BNKR2WCKQBYiowFwzL8HgJJhjCVAIKyhovr8lk66Xqn4t\n7G7wtMFoW5h9XreqvBMfcr+XPb/TMtN7eQyZubYZIapMWZkjZN5HoRrgki9OgRzY\nuAEyEFWlSJ5ee8GY5WpDK9BJTQKBgQDso/uFTw1NlaISo1V1GQ3mPC6b+fz4nrkF\nOxZFqEFHAWDS4ZFd3mvpsgIYFmzViDA62tU3IwRXSSNqZL68BQ886LWRk7NXS+Rd\nfi8PUH3YUf80072SjlOfKBsgOJhRkMGvUwZ3QuWw6nMqwhsMxeNCkeubkQ4WhnyV\nx4WuVs/ayQKBgEEyZdKOol6TCnaCY/S2J5wMMJZPbLQC1QlMmrBDcWTX0NWxiiwf\no1wDTsdLYzdCqLrt5s8rEGRANgjGm9YZwJ3cfKOoXhNqfN34hD37O8rhYn75wLAu\nRqnI1nzM0HZLuOEMTeae0seTFNpyxbw7b6d/IZXdrXvwkK67SyXUU2XpAoGAVX/+\nPbFNTi31TCSlmNR/mCNAd+zAARhgI0qxBmP/iecuk6Magb7+YIaHiSp5EkHNo0Yz\n6WMGi38Kg8N4wrhVRB2UlM+36Z+rGDiiSjc78O/XdL/Ya95uyj+UZXTtW/Mgd/dY\ni7ipAt4C1H0jht7s+L1+Ukv7uhnHY9qeK1qEaTkCgYEAzRAJYoJ2+v/t/0Kepmt7\nhLX65ojM457wQ5ztkr/Por2nVfASvNgbyXQBJY2cdfVviA4wR3ZtygXfUrggvU3g\nbcAjWFl4vGgrMgWHbEcgUGuSn4yzfNkC04re10xSjGdcouHKFjof48w6GLhqDDRe\nvpW8YANFB8RE8hTPBHTVsZ8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "storage-manager@dogwood-mission-372804.iam.gserviceaccount.com",
+  "client_id": "102071621035129100451",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/storage-manager%40dogwood-mission-372804.iam.gserviceaccount.com"
+}
