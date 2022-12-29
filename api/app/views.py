@@ -9,5 +9,7 @@ def get_prediction(request: PredictionRequest) -> float:
     Output: prediction. Prediction of the model
     """
     data_to_predict = transform_to_dataframe(request)
-    prediction = model.predict(data_to_predict)[0]
+    index = model.predict(data_to_predict)[0]
+    classes= ['Benign', 'Malignant']
+    prediction = classes[index]
     return prediction

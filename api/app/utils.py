@@ -7,8 +7,8 @@ from io import BytesIO
 
 def get_model()->Pipeline:
     """
-    Input:
-    Output:
+    Input: model path 
+    Output: model 
     """
     model_path = os.environ.get('MODEL_PATH', 'models/model.pkl')
     with open(model_path, 'rb') as model_file:
@@ -17,8 +17,8 @@ def get_model()->Pipeline:
 
 def transform_to_dataframe(class_model: BaseModel) -> DataFrame:
     """
-    Input:
-    Output:
+    Input: Patient data as JSON
+    Output: Dataframe with the same info
     """
     dictionary = {key: [value] for key, value in class_model.dict().items()}
     df = DataFrame(dictionary)
