@@ -1,4 +1,4 @@
 ['remote "data-track"']
-    url = gs://bc-model-dataset-tracker/data
-['remote "model-track"']
-    url = gs://bc-model-dataset-tracker/models
+    url = gs://models-data-tracker/dataset
+['remote "models-track"']
+    url = gs://models-data-tracker/models
