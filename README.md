@@ -10,7 +10,6 @@
 </h4>
 
 <p align="center"> <a href='https://fastapi.tiangolo.com/' target="_blank"><img alt='fastapi' src='https://img.shields.io/badge/FastAPI-100000?style=for-the-badge&logo=fastapi&logoColor=009889&labelColor=FFFFFF&color=009889'/></a> <a href='https://cloud.google.com' target="_blank"><img alt='google-cloud' src='https://img.shields.io/badge/google_cloud-100000?style=for-the-badge&logo=google-cloud&logoColor=4285f4&labelColor=FFFFFF&color=4285f4'/></a> <a href='https://www.docker.com/' target="_blank"><img alt='docker' src='https://img.shields.io/badge/docker-100000?style=for-the-badge&logo=docker&logoColor=218bea&labelColor=FFFFFF&color=FFFFFF'/></a> <a href='https://dvc.org/' target="_blank"><img alt='dvc' src='https://img.shields.io/badge/dvc-100000?style=for-the-badge&logo=dvc&logoColor=19aac1&labelColor=8153bb&color=f26740'/></a>
-
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='scikit-learn' src='https://img.shields.io/badge/scikit-learn-100000?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF&labelColor=FF6A00&color=1882EA'/></a> <a href='https://www.kaggle.com/' target="_blank"><img alt='kaggle' src='https://img.shields.io/badge/Kaggle-100000?style=for-the-badge&logo=kaggle&logoColor=37BAE8&labelColor=BEFDFF&color=37BAE8'/></a> <a href='https://pandas.pydata.org/' target="_blank"><img alt='pandas' src='https://img.shields.io/badge/pandas-100000?style=for-the-badge&logo=pandas&logoColor=2D0090&labelColor=9D7BEA&color=D2C0FA'/></a>
 </p>
 
