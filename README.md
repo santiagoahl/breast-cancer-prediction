@@ -20,7 +20,7 @@
   <a href="#license">License</a> 
 </p>
 
-![screenshot](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5744c380-7b8a-4e1a-b71e-21fb7d76c860/introduction.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230102%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230102T074138Z&X-Amz-Expires=86400&X-Amz-Signature=ca3853bd314b2983b9e65b94fb2f57cfb2370b68903db69294d8741eed799ccb&X-Amz-SignedHeaders=host&x-id=GetObject)
+![screenshot](https://github.com/santiagoahl/breast-cancer-prediction/blob/main/introduction.gif?raw=true)
 
 ## Key Features
 
