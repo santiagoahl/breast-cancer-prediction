@@ -55,7 +55,7 @@ This machine learning model predicts the diagnosis of a patient. Prediction chos
 
 ![screenshot](https://github.com/santiagoahl/breast-cancer-prediction/blob/main/images/confusion_matrix.png?raw=true)
 
-* Our model is very sensible: **There are no false negatives** which is a great result.
+* Our model is very sensible: **There are a few of false negatives** which is a great result.
 
 ## How To Use
 
