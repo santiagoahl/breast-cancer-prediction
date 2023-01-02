@@ -20,7 +20,7 @@
   <a href="#license">License</a> 
 </p>
 
-![screenshot](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b7e198c3-eceb-41b3-86b0-ef753fd3e8a0/intro.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230102%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230102T064357Z&X-Amz-Expires=86400&X-Amz-Signature=2582715e4a565238b1d7d0c3f61c02a63f4465556a960ab8ef4ab6b5a681ee59&X-Amz-SignedHeaders=host&x-id=GetObject)
+![screenshot](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b7e198c3-eceb-41b3-86b0-ef753fd3e8a0/intro.gif)
 
 ## Key Features
 
