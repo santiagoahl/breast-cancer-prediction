@@ -18,6 +18,7 @@ from sklearn.preprocessing import MinMaxScaler, StandardScaler
 from sklearn.metrics import f1_score, accuracy_score
 
 from imblearn.under_sampling import RandomUnderSampler
+from imblearn.over_sampling import SMOTE
 
 import logging
 from io import StringIO
@@ -37,12 +38,12 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 logger.info('Loading Data ...')
+logger.info('Still works. ...')
 
-data_path = api.read('data/data.csv', remote='data-track') # DVC associated paths
-
+data_path = api.read('data/data.csv')#, remote='d-track') # DVC associated paths
 df = pd.read_csv(StringIO(data_path))
 df.drop('id', axis=1, inplace=True)
-df.drop(['concave_points_mean', 'radius_worst', 'perimeter_worst', 'area_worst'], axis=1, inplace=True)
+df.drop(['concave points_mean', 'radius_worst', 'perimeter_worst', 'area_worst'], axis=1, inplace=True)
 
 try:
     df.drop('Unnamed: 32', axis=1, inplace=True)
@@ -54,8 +55,8 @@ sc = MinMaxScaler()
 X = df.drop('diagnosis', axis=1)
 y = df.diagnosis
 
-under_sampler = RandomUnderSampler(random_state=42)
-X, y = under_sampler.fit_resample(X, y)
+sampler = RandomUnderSampler(random_state=42)
+X, y = sampler.fit_resample(X, y)
 
 logger.info('Spliting data into train and test ...')
 

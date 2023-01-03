@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 
 logging.info('Fetching data...')
 
-data_path = api.read('data/data.csv', remote='data-track') # DVC associated paths
+data_path = api.read('data/data.csv', remote='d-track') # DVC associated paths
 
 df = pd.read_csv(StringIO(data_path))
 df.drop(['id', 'Unnamed: 32'], axis=1, inplace=True)

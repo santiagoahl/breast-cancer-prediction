@@ -1,4 +1,4 @@
 outs:
-- size: 124635
+- etag: b4520b732c861d2e0e53cf7d7844ac0b
+  size: 125204
   path: data.csv
-  md5: 2be021ad1f5e472f6a6ba0d62c6aa41d
