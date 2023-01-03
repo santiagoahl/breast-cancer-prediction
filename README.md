@@ -67,7 +67,7 @@ This machine learning model predicts the diagnosis of a patient. Prediction chos
 
 ![screenshot](https://github.com/santiagoahl/breast-cancer-prediction/blob/main/images/confusion_matrix.png?raw=true)
 
-* Our model is very sensible: **There are a few of false negatives** which is a great result.
+* Our model is very sensible: **There are a few of false negatives**, which is a great result.
 
 * Currently, the project is on **Front-End** phase. It is planned to be developed using the framework `Angular CLI`, which helps us to consume the REST API. The source code can be viewed in the directory `/static`. Here's how it looks
 
