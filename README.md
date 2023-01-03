@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://www.breastcancer.org/es/"><img src="https://www.news-medical.net/image.axd?picture=2017%2F2%2Fshutterstock_576066646.jpg" alt="WHR" width="200"></a>
+  <a href="https://www.breastcancer.org/es/"><img src="https://www.news-medical.net/image.axd?picture=2017%2F2%2Fshutterstock_576066646.jpg" alt="Breast Cancer Official Logo" width="200"></a>
   <br>
   Breast Cancer Prediction
   <br>
@@ -65,7 +65,13 @@ This machine learning model predicts the diagnosis of a patient. Prediction chos
 * The model got a **96.3%** of f1 score and a **96.5%** of accuracy.
 * The confusion matrix is the following:
 
-![screenshot](https://github.com/santiagoahl/breast-cancer-prediction/blob/main/images/confusion_matrix.png?raw=true)
+<h1 align="center">
+  <br>
+  <a href="https://en.wikipedia.org/wiki/Confusion_matrix"><img src="https://github.com/santiagoahl/breast-cancer-prediction/blob/main/images/confusion_matrix.png?raw=true" alt="Confusion matrix" width="400"></a>
+  <br>
+  Breast Cancer Prediction
+  <br>
+</h1>
 
 * Our model is very sensible: **There are a few of false negatives**, which is a great result.
 
