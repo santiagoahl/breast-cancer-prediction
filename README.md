@@ -66,8 +66,11 @@ This machine learning model predicts the diagnosis of a patient. Prediction chos
 * The confusion matrix is the following:
 
 <h1 align="center">
-	<a href="https://en.wikipedia.org/wiki/Confusion_matrix"><img src="https://github.com/santiagoahl/breast-cancer-prediction/blob/main/images/confusion_matrix.png?raw=true" alt="Confusion matrix" width="400"></a>
+	<a href="https://en.wikipedia.org/wiki/Confusion_matrix">
+		<img src="https://github.com/santiagoahl/breast-cancer-prediction/blob/main/images/confusion_matrix.png?raw=true" alt="Confusion matrix" width="400">
+	</a>
 </h1>
+
 
 * Our model is very sensible: **There are a few of false negatives**, which is a great result.
 
