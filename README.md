@@ -68,7 +68,7 @@ This machine learning model predicts the diagnosis of a patient. Prediction chos
 
 <h2 align="center">Confusion matrix</h2>
 <p align="center">
-  <img src="[image_url](https://github.com/santiagoahl/breast-cancer-prediction/blob/main/images/confusion_matrix.png?raw=true)" alt="Confusion" width="400">
+  <img src="[https://github.com/santiagoahl/breast-cancer-prediction/blob/main/images/confusion_matrix.png?raw=true" alt="Confusion" width="400">
 </p>
 
 
