@@ -1,0 +1,131 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #030268;
+  background-color: white;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+header a {
+  color: #030268;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+nav {
+  background-color: #0c3c7a;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  margin: 0 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+section {
+  width: 80%;
+  margin: 20px 0;
+}
+
+section h2 {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0 0 20px;
+}
+
+#demo-form {
+  background-color: #01003c;
+  border-radius: 10px;
+  opacity: 0.9;
+  width: 300px;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
+}
+
+#demo-form label {
+  display: block;
+  margin: 0px;
+  color: white;
+}
+
+#demo-form input[type="number"] {
+  width: 75%;
+  padding: 6px 10px;
+  margin: 2px 0;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 10px;
+  background-color: #bdd2ff;
+  color: black;
+}
+
+#demo-form button[type="submit"] {
+  width: 50%;
+  background-color: #4caf50;
+  color: white;
+  padding: 7px 10px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+#demo-form button[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #01003c;
+  color: white;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
+
+footer p {
+  margin: 0;
+}
