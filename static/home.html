@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Breast Cancer Prediction Service</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="https://careresource.org/wp-content/uploads/2018/10/pink-ribbon-logo-png-transparent-719x899.png">
+  </head>
+  <body>
+    <header>
+      <h1>Breast Cancer Prediction Service</h1>
+      <a href="#">Log In</a>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#demo">Demo</a></li>
+        <li><a href="#pricing">Pricing</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+    <main>
+      <section id="about">
+        <h2>About Our Service</h2>
+        <p>Our machine learning service uses advanced algorithms to predict the likelihood of breast cancer based on a variety of float data inputs. Our service is fast, accurate, and easy to use, making it the perfect tool for healthcare professionals and patients alike.</p>
+      </section>
+      <section id="features">
+        <h2>Features</h2>
+        <ul>
+          <li>Accurate breast cancer prediction using float data</li>
+          <li>Fast and easy to use</li>
+          <li>Affordable pricing options</li>
+          <li>Responsive design for use on all devices</li>
+        </ul>
+      </section>
+      <section id="demo">
+        <h2>Demo</h2>
+        <p>Enter your numeric measures in the form below to try out our prediction service:</p>
+        <form action="api/predict" method="post" id="demo-form">
+            <label for="radius">Radius:</label><br>
+            <input type="number" step="0.01" id="radius" name="radius"><br>
+            <label for="texture">Texture Mean:</label><br>
+
+            <input type="number" step="0.01" id="texture" name="texture"><br>
+            <label for="perimeter">Perimeter:</label><br>
+
+            <input type="number" step="0.01" id="perimeter" name="perimeter"><br>
+            <label for="area">Area:</label><br>
+
+            <input type="number" step="0.01" id="area" name="area"><br>
+            <label for="smoothness">Smoothness:</label><br>
+            <input type="number" step="0.01" id="smoothness" name="smoothness"><br>
+            <label for="compactness">Compactness:</label><br>
+            <input type="number" step="0.01" id="compactness" name="compactness"><br>
+            <label for="concavity">Concavity:</label><br>
+            <input type="number" step="0.01" id="concavity" name="concavity"><br>
+            <label for="concave_points">Concave Points:</label><br>
+            <input type="number" step="0.01" id="concave_points" name="concave_points"><br>
+            <label for="symmetry">Symmetry:</label><br>
+            <input type="number" step="0.01" id="symmetry" name="symmetry"><br>
+            <label for="fractal_dimension">Fractal Dimension:</label><br>
+            <input type="number" step="0.01" id="fractal_dimension" name="fractal_dimension"><br>
+        <button type="submit">Predict</button>
+        </form>
+      </section>
+      
+    <section id="pricing">
+    <h2>Pricing</h2>
+    <p>Our pricing plans are designed to be affordable and flexible. Choose the plan that best fits your needs:</p>
+    <ul>
+        <li>Basic: $1.5/month</li>
+        <li>Premium: $10/month</li>
+        <li>Enterprise: Contact us for a custom quote</li>
+    </ul>
+    </section>
+    <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Have questions or want to learn more about our service? Contact us using the form below:</p>
+    <form>
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name"><br>
+        <label for="email">Email:</label><br>
+        <input type="text" id="email" name="email"><br>
+        <label for="message">Message:</label><br>
+        <textarea id="message" name="message"></textarea><br>
+        <button type="submit">Send</button>
+    </form> 
+    </section>
+        </main>
+        <footer>
+          <p>Copyright 2021 Breast Cancer Prediction Service</p>
+        </footer>
+      </body>
+    </html>
