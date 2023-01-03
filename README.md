@@ -69,6 +69,10 @@ This machine learning model predicts the diagnosis of a patient. Prediction chos
 
 * Our model is very sensible: **There are a few of false negatives** which is a great result.
 
+* Currently, the project is on **Front-End** phase. The source code can be viewed in the directorory `static`. That's how it looks
+
+![screenshot](https://github.com/santiagoahl/breast-cancer-prediction/blob/main/images/website.gif)
+
 ## How To Use
 
 To clone and run this application, follow these steps
