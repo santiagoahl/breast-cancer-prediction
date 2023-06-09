@@ -1,7 +1,5 @@
 <h1 align="center">
-  <br>
-  <a href="https://www.breastcancer.org/es/"><img src="https://www.news-medical.net/image.axd?picture=2017%2F2%2Fshutterstock_576066646.jpg" alt="Breast Cancer Official Logo" width="200"></a>
-  <br>
+
   Breast Cancer Prediction
   <br>
 </h1>
